@@ -204,7 +204,7 @@
           "recipe_name": "Beef Wellington",
          
           "ingredients": "beef tenderloin,mushrooms,puff pastry,prosciutto,mustard",
-          "cooking_method": "1. Preheat oven to 400 degrees F. 2. Season the beef tenderloin with salt and pepper. 3. Sear the beef on all sides in a hot skillet. 4. Spread mustard on the beef. 5. Layer the prosciutto and mushrooms on top. 6. Wrap in puff pastry. 7. Brush with egg wash. 8. Bake for 35-40 minutes.",
+          "cooking_method": "1. Preheat oven to 400 degrees F. 2. Season the beef tenderloin with salt and pepper. 3. Sear the beef on all sides in a hot skillet. 4. Spread mustard on the beef. 5. Layer the prosciutto and mushroom  on top. 6. Wrap in puff pastry. 7. Brush with egg wash. 8. Bake for 35-40 minutes.",
           "rating": 4.5
         },
         {
@@ -213,7 +213,7 @@
           "recipe_name": "Beef Wellington",
          
           "ingredients": "beef tenderloin,mushrooms,puff pastry,prosciutto,mustard",
-          "cooking_method": "1. Crack eggs into a bowl. 2. Melt butter in a skillet. 3. Add eggs to skillet. 4. Stir constantly. 5. Season with salt and pepper. 6. Garnish with chives.",
+          "cooking_method": "1. Crack eggs into a bowl. 2. Melt butter in a skillt. 3. Add eggs to skillet. 4. Stir constantly. 5. Season with salt and pepper. 6. Garnish with chives.",
           "rating": 3.8
         },
         {
@@ -222,7 +222,7 @@
           "recipe_name": "Beef Wellington",
           
           "ingredients": "beef tenderloin,mushrooms,puff pastry,prosciutto,mustard",
-          "cooking_method": "1. Cut beef into thin strips. 2. Sauté beef, onion, and mushrooms in a skillet. 3. Add sour cream. 4. Cook egg noodles according to package instructions. 5. Serve beef stroganoff over egg noodles.",
+          "cooking_method": "1. Cut beef into thin strips. 2. Sauté beef, onionn, and mushrooms in a skillet. 3. Add sour cream. 4. Cook egg noodles according to package instructions. 5. Serve beef stroganoff over egg noodles.",
           "rating": 4.2
         }
       ]
