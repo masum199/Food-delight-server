@@ -154,7 +154,7 @@
     {
       "id": "5",
       "chief_name": "Nohel Miller",
-      "bio": "Heston Blumenthal: A British chef and owner of The Fat Duck in Bray, England. He is known for his innovative approach to cooking, incorporating science and technology into his dishes. He has been awarded three Michelin stars",
+      "bio": "Heston Blumenthal: A British chef and owner of The Fat Duck in Bray, England. He is known for his innovative approach to cooking, incorporating science and technology dishes. He has been awarded three Michelin stars",
       "chief_image": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?size=626&ext=jpg&uid=R101282326&ga=GA1.2.1749394288.1682968820&semt=sph",
       "years_of_experience": "6 years of experience",
       "number_of_recipes": "Number of recipes : 3",
@@ -166,7 +166,7 @@
           "recipe_name": "Beef Wellington",
          
           "ingredients": "beef tenderloin,mushrooms,puff pastry,prosciutto,mustard",
-          "cooking_method": "1. Preheat oven to 400 degrees F. 2. Season the beef tenderloin with salt and pepper. 3. Sear the beef on all sides in a hot skillet. 4. Spread mustard on the beef. 5. Layer the prosciutto and mushrooms on top. 6. Wrap in puff pastry. 7. Brush with egg wash. 8. Bake for 35-40 minutes.",
+          "cooking_method": "1. Preheat oven to 400 degrees F. 2. Season the beef tenderloin with salt and pepper. 3. Sear the beef on all sides in a hot skillet. 4. Spre mustard on the beef. 5. Layer the prosciutto and mushrooms on top. 6. Wrap in puff pastry. 7. Brush with egg wash. 8. Bake for 35-40 minutes.",
           "rating": 4.5
         },
         {
@@ -184,7 +184,7 @@
           "recipe_name": "Beef Wellington",
           
           "ingredients": "beef tenderloin,mushrooms,puff pastry,prosciutto,mustard",
-          "cooking_method": "1. Cut beef into thin strips. 2. Sauté beef, onion, and mushrooms in a skillet. 3. Add sour cream. 4. Cook egg noodles according to package instructions. 5. Serve beef stroganoff over egg noodles.",
+          "cooking_method": "1. Cut beef into thin strips. 2. Sauté beef, onion,  mushrooms in a skillet. 3. Add sour cream. 4. Cook egg noodles according to package instructions. 5. Serve beef stroganoff over egg noodles.",
           "rating": 4.2
         }
       ]
