@@ -108,7 +108,7 @@
           "recipe_name": "Beef Wellington",
           
           "ingredients": "beef tenderloin,mushrooms,puff pastry,prosciutto,mustard",
-          "cooking_method": "1. Cut beef into thin strips. 2. Sauté beef, onion, and mushrooms in a skillet. 3. Add sour cream. 4. Cook egg noodles according to package instructions. 5. Serve beef stroganoff over egg noodles.",
+          "cooking_method": "1. Cut beef into thin strips. 2. Sauté beef, , and mushrooms in a skillet. 3. Add sour cream. 4. Cook egg noodles according to package instructions. 5. Serve beef stroganoff over egg noodles.",
           "rating": 4.2
         }
       ]
@@ -116,7 +116,7 @@
     {
       "id": "4",
       "chief_name": "Dilton Malik",
-      "bio": "Alice Waters: An American chef and founder of Chez Panisse in Berkeley, California. She is a proponent of using fresh, local, and organic ingredients in her cooking, and has been a leading figure in the farm-to-table movement.",
+      "bio": "Alice Waters: An American chef and founder of Chez Panisse in Berkeley, California. She is a proponent of using fresh, local, and organic ingredients in  cooking, and has been a leading figure in the farm-to-table movement.",
       "chief_image": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-3285.jpg?size=626&ext=jpg&ga=GA1.1.1749394288.1682968820&semt=sph",
       "years_of_experience": "6 years of experience",
       "number_of_recipes": "Number of recipes : 3",
